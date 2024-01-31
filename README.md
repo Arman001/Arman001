@@ -35,6 +35,8 @@ Hello 👋 there, I am a full-stack developer with a passion for harmonizing fun
 
 <img align="left" alt="Gimp" width="35px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/gimp/gimp-original.svg" />
 <img align="left" alt="Inkscape" width="35px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/inkscape/inkscape-original.svg" />
+<br/>
+
 </div>
 <br/>
 
