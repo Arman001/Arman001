@@ -11,8 +11,8 @@ Hello 👋 there, I am a full-stack developer with a passion for harmonizing fun
   <li> 👀 want to checkout <strong>blockchain</strong> next.</li>
 </ul>
 
+#
 
----
 <h3> 🧰 Languages and Tools</h3>
 
 
@@ -37,8 +37,7 @@ Hello 👋 there, I am a full-stack developer with a passion for harmonizing fun
 <img align="left" alt="Inkscape" width="35px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/inkscape/inkscape-original.svg" />
 <br/>
 
-
----
+#
 
 <h3> 📫 Get in touch with me</h3>
 <ul>
@@ -54,15 +53,7 @@ Directly at  <strong>muhammad.saad.ar@gmail.com</strong>
 </li>
 </ul>
 
----
-
-
-
-
-
-
-
-</div
+</div>
 
 
 
