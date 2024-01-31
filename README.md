@@ -15,7 +15,7 @@ Hello 👋 there, I am a full-stack developer with a passion for harmonizing fun
 ---
 <h3> 🧰 Languages and Tools</h3>
 
-<div>
+
 <img align="left" alt="Linux" width="35px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg" />
 <img align="left" alt="VsCode" width="35px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg" />
 <img align="left" alt="GitHub" width="35px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original.svg" />
@@ -37,8 +37,6 @@ Hello 👋 there, I am a full-stack developer with a passion for harmonizing fun
 <img align="left" alt="Inkscape" width="35px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/inkscape/inkscape-original.svg" />
 <br/>
 
-</div>
-<br/>
 
 ---
 
