@@ -5,7 +5,7 @@
 Hello 👋 there, I am a full-stack developer with a passion for harmonizing functionality and design in the digital realm. I am currently
 
 <ul>
-  <li> ⌨️ working on my <strong>personal porfolio website</strong>.</li>
+  <li> ⌨️ working on my <strong>EcoSentry</strong> project.</li>
   <li> 📖 trying to understand <strong>deep learning</strong>.</li>
   <li> 👀 want to checkout <strong>blockchain</strong> next.</li>
 </ul>
@@ -43,7 +43,7 @@ Hello 👋 there, I am a full-stack developer with a passion for harmonizing fun
 <ul>
 
 <li> By going to  
-<a href="https://www.linkedin.com/in/muhammad-saad-74017525b/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-original.svg" alt="Saad" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/muhammad-saad-ar/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-original.svg" alt="Saad" height="30" width="30" /></a>
 </li>
 <br/>
 <p>or<p/>
