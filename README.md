@@ -5,7 +5,7 @@
 Hello 👋 there, I am a full-stack developer with a passion for harmonizing functionality and design in the digital realm. I am currently
 
 <ul>
-  <li> ⌨️ working on my <strong>EcoSentry</strong> project.</li>
+  <li> ⌨️ working on <strong>EcoSentry</strong> project.</li>
   <li> 📖 trying to understand <strong>deep learning</strong>.</li>
   <li> 👀 want to checkout <strong>blockchain</strong> next.</li>
 </ul>
