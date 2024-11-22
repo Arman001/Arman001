@@ -5,6 +5,8 @@ Hi there! 👋
 
 I’m Muhammad Saad, a passionate tech enthusiast transitioning into **Data Science and Machine Learning** after building solid foundation in **Full-Stack Development**. My journey revolves around blending innovation with problem-solving.
 
+---
+
 ### 🔭 Currently Working On  
 <ul>
   <li> ⌨️ <strong>EcoSentryAI</strong>: Leveraging AI to monitor environmental health and forest ecosystems.</li>
