@@ -2,13 +2,14 @@
 **`In the World of Bits and Bytes, I’m the Architect`**  
 
 Hi there! 👋  
-I’m Muhammad Saad, a passionate tech enthusiast transitioning into **Data Science and Machine Learning** after excelling in **Full-Stack Development**. My journey revolves around blending innovation with problem-solving, and I’m excited to create solutions that make an impact.
+
+I’m Muhammad Saad, a passionate tech enthusiast transitioning into **Data Science and Machine Learning** after building solid foundation in **Full-Stack Development**. My journey revolves around blending innovation with problem-solving.
 
 ### 🔭 Currently Working On  
 <ul>
   <li> ⌨️ <strong>EcoSentryAI</strong>: Leveraging AI to monitor environmental health and forest ecosystems.</li>
   <li> 📖 <strong>Deep Learning</strong>: Exploring the depths of neural networks and advanced machine learning techniques.</li>
-  <li> 📚 Sharing knowledge on <strong><a href="https://www.linkedin.com/in/muhammad-saad-ar/">LinkedIn</a></strong>.</li>
+  <li> 📚 <strong>Sharing Knowledge:</strong> Connecting with like-minded professionals and sharing insights on <strong><a href="https://www.linkedin.com/in/muhammad-saad-ar/">LinkedIn</a></strong>.</li>
 </ul>
 
 ---
