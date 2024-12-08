@@ -19,14 +19,29 @@ I’m Muhammad Saad, a passionate tech enthusiast transitioning into **Data Scie
 ### 🛠️ Skills & Tools  
 
 #### Languages & Frameworks  
-<img align="left" alt="HTML" width="32px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-plain.svg" />
+
+<div>
+<img align="left" alt="Python" width="32px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-plain.svg" />
+<img align="left" alt="Tensorflow" width="32px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tensorflow/tensorflow-original.svg" />
+<img align="left" alt="Pytorch" width="32px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/pytorch/pytorch-original.svg" />
+<img align="left" alt="Scikit-learn" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
+<img align="left" alt="Numpy" width="70px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" />
+<img align="left" alt="Pandas" width="32px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/pandas/pandas-original.svg" />
+<img align="left" alt="Matplotlib" width="100px" style="padding-right:10px;" src="https://matplotlib.org/_static/logo2_compressed.svg" />
+</div>
+
+<br clear="left"/><br/>
+
+
+<div>
+<img align="left" alt="HTML" width="32px" style="padding-right:10px; " src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="32px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="32px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="TypeScript" width="32px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="NodeJS" width="32px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="React" width="32px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" />
 <img align="left" alt="NextJs" width="32px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nextjs/nextjs-original.svg" />
-<img align="left" alt="Python" width="32px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-plain.svg" />
+  </div>
 <br/>
 <br/>
 
@@ -35,8 +50,9 @@ I’m Muhammad Saad, a passionate tech enthusiast transitioning into **Data Scie
 <img align="left" alt="VS Code" width="32px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg" />
 <img align="left" alt="GitHub" width="32px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original.svg" />
 <img align="left" alt="MongoDB" width="32px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg" />
-<img align="left" alt="MySQL" width="32px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left" alt="MySQL" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="Bash" width="32px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bash/bash-original.svg" />
+<img align="left" alt="Jupyter Notebook" width="32px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jupyter/jupyter-original-wordmark.svg" />
 <br/>
 <br/>
 
